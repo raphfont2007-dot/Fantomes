@@ -1,4 +1,4 @@
-const LIEN_PAIEMENT = "#"; // on le remplacera par le lien Stripe à l'action suivante
+const LIEN_PAIEMENT = "https://buy.stripe.com/test_14A3cudDJelk1kBcxc8g000"; // on le remplacera par le lien Stripe à l'action suivante
 
 export default function Page() {
   return (
